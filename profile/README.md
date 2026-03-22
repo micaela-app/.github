@@ -11,14 +11,6 @@ Micaela helps nutritional centers in Latin America manage their practice from a 
 - **Meal plans** — personalized nutrition planning
 - **Multi-location** — manage multiple offices under one account
 
-## Plans
-
-| Plan | Price | Professionals |
-|------|-------|---------------|
-| Free | $0 | 1 |
-| Pro | $19/mo | 3 |
-| Business | $59/mo | 5 |
-
 ## Stack
 
 ```
