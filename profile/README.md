@@ -1,11 +1,11 @@
-  # Micaela                                                                                                              
+  # Lebenix                                                                                                              
                                                            
   > B2B SaaS platform for nutritionists in LATAM — patient management, appointments, clinical measurements and meal      
   plans.                                                                                                               
                                                                                                                          
-  ## What is Micaela?                                                                                                    
+  ## What is Lebenix?                                                                                                    
                                                                                                                          
-  Micaela helps nutritional centers in Latin America manage their practice from a single platform:                       
+  Lebenix helps nutritional centers in Latin America manage their practice from a single platform:                       
                                                                                                                          
   - **Patient management** — records, clinical history, tags and measurements
   - **Appointments** — calendar, scheduling and confirmations
